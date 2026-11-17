@@ -1,0 +1,4 @@
+# Documentos internos y configuración local (no se publican)
+*.docx
+*.pdf
+.claude/
